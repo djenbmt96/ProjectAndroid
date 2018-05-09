@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TD\.android\build-cache\0fab747768782128cf8cb6c68ccd8c579cd4c207\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\PROJECT\AndroidStudio\Exercises\androidHomeworks-master\ClevelandTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de22ab075d997e86a8c025e1698ae24e6df6f3a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT\AndroidStudio\Exercises\androidHomeworks-master\ClevelandTour\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16ab7cb4e6e60444ff9b4ca4adbba7fa867a2e9e">
+        <dex dex="D:\PROJECT\AndroidStudio\Exercises\androidHomeworks-master\ClevelandTour\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ecf1a2c7836ba6082cfbd42b496c269486d2b6cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TD\.android\build-cache\d34c73bbe2e44fc0a0ae62c9942b6c00e1d20e2b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="D:\PROJECT\AndroidStudio\Exercises\androidHomeworks-master\ClevelandTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7bf7345046a81bd23f2ba9010294e24f385ab04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TD\.android\build-cache\98199fc7cc0119c6abe68660382e270e086cfc74\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\PROJECT\AndroidStudio\Exercises\androidHomeworks-master\ClevelandTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6400dd3a7c4a7da85d08c83c832e6b53cd8ac934\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TD\.android\build-cache\ae5085b593dd188a984747ca258f9f2a44eb1c1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\PROJECT\AndroidStudio\Exercises\androidHomeworks-master\ClevelandTour\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec9406e3b6d13653110187b455eeb0a7ce0935da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PROJECT\AndroidStudio\Exercises\androidHomeworks-master\ClevelandTour\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="D:\PROJECT\AndroidStudio\Exercises\androidHomeworks-master\ClevelandTour\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_55173294f7743d30637b04cb34fb4fcea851b3f2\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Mon May 07 15:09:27 ICT 2018
+base.0=D\:\\PROJECT\\AndroidStudio\\Lab6_NotificationsLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
